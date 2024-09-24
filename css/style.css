@@ -1,0 +1,135 @@
+
+
+.logo {
+margin-left: 38%;
+margin-top: 100px;
+}
+
+.gri {
+    background: #f1eeee;
+    height: 100px;
+
+}
+
+.logo-alti-yazi {
+    margin-left:43%;
+}
+
+.aramakutusu {
+    background: white;
+    width: 400px;
+    height: 25px;
+    margin: 2px 38% 15px;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: rgb(201, 216, 243);
+    
+
+} 
+
+.ikibuton1{
+    margin-top: 10px;
+    margin-left: 41%;
+    width: 150px;
+    height: 30px;
+    border-width: 2px;    
+    border-color: rgb(201, 216, 243);
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+    background: white;
+    
+}
+.ikibuton2{
+    margin-top: 10px;
+    margin-left: 1%;
+    width: 150px;
+    height: 30px;
+    border-width: 2px;    
+    border-color: rgb(201, 216, 243);
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+    background: white;
+    
+}
+
+/* yeşil zemin */
+
+.boxgenel{
+    margin-top: 5px;
+    float: left;
+    padding-top: 2px;
+}
+
+.box1 {
+    background-color: aquamarine;
+    width: 950px;
+    height: 120px;
+    margin-right: 5px;
+   
+}
+
+.box2 {
+    background-color: rgb(110, 156, 141);
+    width: 500px;
+    height: 120px;
+    margin-right: 5px;
+  
+}
+
+.box3 {
+  
+    background-color: rgb(119, 172, 154);
+    width: 668px;
+    height: 120px;
+    
+    
+  
+
+}
+.boxyazi1 {
+    text-align-last: center;
+
+}
+
+.boxyazi2 {
+    text-align-last: center;
+    
+
+
+}
+
+.boxyazi3 {
+       
+    text-align-last: center;
+    padding-bottom: 20px;
+
+
+}
+
+.email {
+    background: white;
+    padding: 2px 80px 5px;
+    margin: 100px 200px 150px;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: rgb(201, 216, 243);
+
+}
+
+
+
+
+.subscribe {
+    background: white;
+    padding: 2px 20px 5px;
+    margin-top: 150px;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: rgb(201, 216, 243);
+
+}
